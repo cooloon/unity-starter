@@ -6,7 +6,6 @@
   "unity": "6000.0",
   "dependencies": {
     "com.unity.addressables": "2.9.1",
-    "com.unity.localization": "1.5.11",
-
+    "com.unity.localization": "1.5.11"
   }
 }
